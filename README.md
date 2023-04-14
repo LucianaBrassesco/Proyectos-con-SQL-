@@ -3,3 +3,4 @@
 (Nota: todos tienen mis anotaciones, las cuales no eliminé porque considero que son parte de mi proceso de aprendizaje.) </p>
 <li> <b> Nashville Project: </b> proyecto guiado generado por Alex the Analyst.</li>
 <li> <b> COVID - 19 Project: </b> proyecto guiado por Alex the Analyst.</li>
+<li> <b> HackerRanck Queries: </b> práctica de SQL con ejercicios de HackerRank (no están todos, solo aquellos que me parecieron interesantes de revisar). </li>
